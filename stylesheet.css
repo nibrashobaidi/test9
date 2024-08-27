@@ -1,0 +1,17 @@
+<!DOCTYPE css>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+h1 { font-size: large; font-weight: bold; }
+h2 { font-size: x-large; font-weight: bold; }
+h3 { font-size: small; font-weight: bold; }
+h4 { font-size: large; font-weight: bold; }
+h5 { font-size: x-large; font-weight: bold; }
+ img {
+  border: 5px solid #555;
+}
+body { background-color:green}
+div { font-size: 90%; }
+p { font-size: 80%; }
+p, ol, ul { color: lavender; }
+</head>
